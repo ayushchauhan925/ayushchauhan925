@@ -403,14 +403,14 @@ and push to main at 3 AM
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&ring_color=7c3aed" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&ring_color=7c3aed&cache_seconds=1800" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchauhan925&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=ayushchauhan925&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 <div align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=10&card_width=400" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=10&card_width=400&cache_seconds=1800" />
 </div>
 
 <br/>
@@ -434,7 +434,7 @@ and push to main at 3 AM
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -442,17 +442,32 @@ and push to main at 3 AM
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                          -->
+<!--               CODING JOURNEY & ROADMAP                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Watch the Snake Eat My Commits</h2>
+<h2 align="center">🗺️ My Dev Roadmap</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+
+```
+                          AYUSH'S ENGINEERING JOURNEY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅  MASTERED          🔥  BUILDING NOW         🎯  NEXT TARGET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅  Java & Spring Boot      🔥  RAG + LangChain       🎯  AWS Solutions Arch
+  ✅  React + Vite            🔥  PyTorch / DL          🎯  Kubernetes (CKA)
+  ✅  REST APIs + JWT         🔥  AI Agent Systems      🎯  Solidity + DeFi
+  ✅  Android Jetpack         🔥  Docker + K8s          🎯  Go Microservices
+  ✅  MySQL + MongoDB         🔥  Blockchain / Web3j    🎯  Rust Systems Prog
+  ✅  Git + GitHub Actions    🔥  LLM Fine-tuning       🎯  MLOps Pipelines
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          "Every expert was once a beginner who refused to quit."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -503,7 +518,13 @@ and push to main at 3 AM
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+open+to+collaborating+on+ambitious+projects.;Let's+turn+ideas+into+systems+that+scale.;Drop+a+star+⭐+if+my+work+helped+you!" alt="Footer Typing" />
+<br/><br/>
+
+<p align="center">
+  <i>Always open to collaborating on ambitious projects.</i><br/>
+  <i>Let's turn ideas into systems that scale.</i><br/><br/>
+  <b>⭐ Drop a star if my work helped you!</b>
+</p>
 
 </div>
 
