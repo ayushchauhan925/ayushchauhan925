@@ -523,27 +523,6 @@ and push to main at 3 AM
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WIT & WISDOM SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💬 Dev Wisdom</h2>
-
-<div align="center">
-
-| 🧠 Principle | 💡 Take |
-|:------------|:--------|
-| **On Clean Code** | *"Any fool can write code a computer understands. Good programmers write code humans understand."* — Martin Fowler |
-| **On Debugging** | *"Debugging is twice as hard as writing the code in the first place."* — Brian Kernighan |
-| **On Learning** | *"The expert in anything was once a beginner."* — Helen Hayes |
-| **My Mantra** | *"Build in public. Learn in public. Ship relentlessly."* |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB TROPHIES                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -560,21 +539,98 @@ and push to main at 3 AM
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WHAT I'M UP TO NOW                          -->
+<!--                  PROBLEM SOLVING STATS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📅 Now — June 2026</h2>
+<h2 align="center">🧩 Problem Solving</h2>
 
 <div align="center">
 
-```yaml
-currently:
-  studying:    "2nd Year Computer Engineering @ University of Mumbai"
-  building:    ["Learnify LMS", "Blockchain Ledger API", "AI Agent System"]
-  learning:    ["RAG Pipelines", "PyTorch", "LangChain", "Docker + K8s"]
-  reading:     "Designing Data-Intensive Applications — Martin Kleppmann"
-  goal_2026:   "Land a solid internship. Ship 5 production-grade projects."
-  open_to:     ["Internships", "Open Source Collabs", "Hackathons"]
+<a href="https://leetcode.com/ayushchauhan925/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/ayushchauhan925/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/ayushchauhan925">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+| 🏷️ Platform | 📊 Focus | 🎯 Status |
+|:-----------:|:--------:|:---------:|
+| **LeetCode** | DSA · Arrays · Trees · DP | ![Active](https://img.shields.io/badge/Active-7c3aed?style=flat-square&labelColor=0d1117) |
+| **GeeksForGeeks** | Data Structures · Algorithms | ![Active](https://img.shields.io/badge/Active-6d28d9?style=flat-square&labelColor=0d1117) |
+| **HackerRank** | Java · Problem Solving | ![Active](https://img.shields.io/badge/Active-5b21b6?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  OPEN SOURCE CONTRIBUTION                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌍 Open Source & Community</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤝 Collaboration
+I'm always open to collaborating on **open source projects** — especially in the AI/ML, Spring Boot, or Web3 space. Got an interesting idea? Let's talk.
+
+</td>
+<td align="center" width="33%">
+
+### 📝 Mentorship
+Happy to help fellow students navigate **DSA, backend dev, or Android**. Learning is better when shared — feel free to reach out.
+
+</td>
+<td align="center" width="33%">
+
+### 🏆 Hackathons
+Actively participating in hackathons to ship ideas fast and meet driven builders. Building under pressure is the best way to grow.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DEV CARD / QUICK FACTS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⚡ Quick Facts</h2>
+
+<div align="center">
+
+```javascript
+const ayush = {
+  name        : "Ayush Chauhan",
+  role        : "Full Stack + AI/ML Engineer",
+  university  : "University of Mumbai — CE, 2nd Year",
+  location    : "Mumbai, India 🇮🇳",
+  languages   : ["Java", "Python", "Kotlin", "JavaScript", "TypeScript"],
+  stack       : ["Spring Boot", "React", "Android", "LangChain", "Docker"],
+  databases   : ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+  currentFocus: "RAG Pipelines · AI Agents · Deep Learning · Web3",
+  openTo      : ["Internships", "Open Source", "Hackathons", "Research"],
+  funFact     : "I push to main at 3 AM and somehow it always works 🌙",
+  motto       : "Code with intent. Build things that outlive the hype.",
+};
 ```
 
 </div>
