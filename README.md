@@ -617,21 +617,52 @@ Actively participating in hackathons to ship ideas fast and meet driven builders
 
 <div align="center">
 
-```javascript
-const ayush = {
-  name        : "Ayush Chauhan",
-  role        : "Full Stack + AI/ML Engineer",
-  university  : "University of Mumbai — CE, 2nd Year",
-  location    : "Mumbai, India 🇮🇳",
-  languages   : ["Java", "Python", "Kotlin", "JavaScript", "TypeScript"],
-  stack       : ["Spring Boot", "React", "Android", "LangChain", "Docker"],
-  databases   : ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-  currentFocus: "RAG Pipelines · AI Agents · Deep Learning · Web3",
-  openTo      : ["Internships", "Open Source", "Hackathons", "Research"],
-  funFact     : "I push to main at 3 AM and somehow it always works 🌙",
-  motto       : "Code with intent. Build things that outlive the hype.",
-};
+<table>
+<tr>
+<td>
+
 ```
+ 👤  Ayush Chauhan
+ 🎓  Computer Engineering — University of Mumbai (2nd Year)
+ 📍  Mumbai, India
+ 💼  Full Stack Developer · AI/ML Engineer · Android Dev
+```
+
+</td>
+<td>
+
+```
+ 🔭  Building  →  Learnify LMS · Blockchain API · AI Agents
+ 🌱  Learning  →  RAG · PyTorch · LangChain · Docker · K8s
+ 🎯  Focus     →  Deep Learning · Web3 · MLOps · Microservices
+ 💬  Ask me    →  Java · Spring Boot · React · Android · ML
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+```
+ ☕  Powered by  →  Coffee + Curiosity
+ 🌙  Fun fact    →  Pushes to main at 3 AM (it works, always)
+ 🧠  Reads       →  DDIA — Martin Kleppmann
+ 🏆  Open to     →  Internships · OSS · Hackathons · Research
+```
+
+</td>
+<td>
+
+```
+ ⚡  Languages  →  Java · Python · Kotlin · TS · Go · Rust
+ 🗄️  Databases  →  MySQL · PostgreSQL · MongoDB · Redis
+ ☁️  Cloud      →  AWS · GCP · Docker · K8s · GitHub Actions
+ 💡  Motto      →  "Code with intent. Build things that last."
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
