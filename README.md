@@ -1,17 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CINEMATIC HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=AYUSH%20CHAUHAN&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Turning%20Ideas%20into%20Intelligent%20Systems&descSize=20&descAlignY=62&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/ayushchauhan925">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer+%7C+Java+%26+Spring+Boot;🤖+AI+%2F+ML+%2F+Deep+Learning+Engineer;⛓️+Blockchain+%26+Web3+Builder;☁️+Cloud+%26+DevOps+Architect;📱+Android+Dev+%7C+Jetpack+Compose;🧠+RAG+Pipelines+%26+AI+Agents+Explorer" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- ANIMATED BADGE ROW -->
 <p>
@@ -38,24 +29,24 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ABOUT ME — FULL WIDTH CARD LAYOUT -->
-
 <div align="center">
 
-### 👋 Hey, I'm Ayush Chauhan
+## 👋 Hey, I'm Ayush Chauhan
 
 **Computer Engineering Student @ University of Mumbai** &nbsp;•&nbsp; Mumbai, India 🇮🇳
 
 <br/>
 
-*I build things that matter — full-stack systems, intelligent ML pipelines, and on-chain applications.*
-*Second year student. First year of many building things the world will actually use.*
+```
+I build things that matter — full-stack systems, intelligent ML pipelines, and on-chain applications.
+Second year student. First year of many building things the world will actually use.
+```
 
 </div>
 
@@ -185,11 +176,11 @@ and push to main at 3 AM
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -428,10 +419,6 @@ and push to main at 3 AM
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SKILL LEVELS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -507,10 +494,6 @@ and push to main at 3 AM
 </tbody>
 </table>
 
-<br/>
-
-> *"The best time to plant a tree was 20 years ago. The second best time is now."*
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -540,6 +523,67 @@ and push to main at 3 AM
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   WIT & WISDOM SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💬 Dev Wisdom</h2>
+
+<div align="center">
+
+| 🧠 Principle | 💡 Take |
+|:------------|:--------|
+| **On Clean Code** | *"Any fool can write code a computer understands. Good programmers write code humans understand."* — Martin Fowler |
+| **On Debugging** | *"Debugging is twice as hard as writing the code in the first place."* — Brian Kernighan |
+| **On Learning** | *"The expert in anything was once a beginner."* — Helen Hayes |
+| **My Mantra** | *"Build in public. Learn in public. Ship relentlessly."* |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB TROPHIES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   WHAT I'M UP TO NOW                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📅 Now — June 2026</h2>
+
+<div align="center">
+
+```yaml
+currently:
+  studying:    "2nd Year Computer Engineering @ University of Mumbai"
+  building:    ["Learnify LMS", "Blockchain Ledger API", "AI Agent System"]
+  learning:    ["RAG Pipelines", "PyTorch", "LangChain", "Docker + K8s"]
+  reading:     "Designing Data-Intensive Applications — Martin Kleppmann"
+  goal_2026:   "Land a solid internship. Ship 5 production-grade projects."
+  open_to:     ["Internships", "Open Source Collabs", "Hackathons"]
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  FINAL CONNECT SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -558,8 +602,6 @@ and push to main at 3 AM
 <a href="mailto:ayushchauhan.9525@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <br/><br/>
 
