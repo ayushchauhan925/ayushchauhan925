@@ -1,211 +1,460 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:7c3aed,100:2563eb&height=200&section=header&text=Ayush%20Chauhan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Cloud%20%7C%20Blockchain&descAlignY=55&descSize=18&animation=fadeIn" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CINEMATIC HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=AYUSH%20CHAUHAN&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Turning%20Ideas%20into%20Intelligent%20Systems&descSize=20&descAlignY=62&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
+
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/ayushchauhan925">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%7C+Java+%26+Spring+Boot;AI+%2F+ML+%2F+Deep+Learning+Explorer;Blockchain+%26+Web3+Builder;Cloud+%26+DevOps+Enthusiast;CS+Student+%40+University+of+Mumbai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full+Stack+Developer+%7C+Java+%26+Spring+Boot;🤖+AI+%2F+ML+%2F+Deep+Learning+Engineer;⛓️+Blockchain+%26+Web3+Builder;☁️+Cloud+%26+DevOps+Architect;📱+Android+Dev+%7C+Jetpack+Compose;🧠+RAG+Pipelines+%26+AI+Agents+Explorer" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE BADGES -->
+<!-- ANIMATED BADGE ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ayushchauhan925&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ayushchauhan925?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ayushchauhan925?label=Stars&style=flat-square&color=6e40c9" alt="Stars" />
+<a href="https://github.com/ayushchauhan925">
+  <img src="https://img.shields.io/badge/🚀_Open_to_Opportunities-6d28d9?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+<a href="mailto:ayushchauhan.9525@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Hire_Me-7c3aed?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+<a href="https://github.com/ayushchauhan925?tab=repositories">
+  <img src="https://img.shields.io/badge/💼_View_Projects-4f46e5?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=ayushchauhan925&label=👁️+Profile+Visitors&color=7c3aed&style=flat-square&labelColor=0f0c29" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ayushchauhan925?label=Followers&style=flat-square&color=a78bfa&labelColor=0f0c29" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/ayushchauhan925?label=Total+Stars&style=flat-square&color=6d28d9&labelColor=0f0c29" />
 </p>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```yaml
-name        : Ayush Chauhan
-location    : Mumbai, India 🇮🇳
-education   : B.E. Computer Engineering @ University of Mumbai (SE, Sem IV)
-focus       : Full-Stack Dev · AI/ML · Blockchain · Cloud Computing · DevOps
-building    : Learnify LMS | Blockchain Ledger API | ML Pipelines
-learning    : RAG Pipelines · LangChain · PyTorch · AWS/GCP · Rust · Go
-interests   : Open Source · Finance & Crypto · AI Agents · System Design
-philosophy  : "CS student · Curious mind · Always building, always learning."
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 🧑‍💻 Who Am I?
+
+```typescript
+const ayush: Developer = {
+  name     : "Ayush Chauhan",
+  location : "Mumbai, India 🇮🇳",
+  education: "B.E. Computer Engineering",
+  college  : "University of Mumbai",
+  year     : "SE • Semester IV",
+
+  currentlyBuilding: [
+    "🎓 Learnify — Full-stack EdTech LMS",
+    "⛓️  Blockchain Ledger API (Web3j)",
+    "🤖 AI Agents with LangChain & RAG",
+  ],
+
+  currentlyLearning: [
+    "RAG Pipelines • LangChain • PyTorch",
+    "AWS / GCP • Docker • Kubernetes",
+    "Rust • Go • Deep Learning",
+    "Blockchain / Solidity / Web3",
+  ],
+
+  superPowers: [
+    "Java & Spring Boot Microservices",
+    "React + Android (Jetpack Compose)",
+    "ML Pipelines & AI Agent Systems",
+  ],
+
+  funFact: "I debug in the dark and ship at 3 AM 🌙",
+};
 ```
 
-- 🔭 Currently building **Learnify** — a full-stack EdTech LMS platform
-- 🤖 Exploring **RAG pipelines**, **LangChain**, and **AI Agents** (CrewAI, AutoGen, Agno)
-- ⛓️ Building on **Ethereum/Web3j** for decentralized ledger applications
-- 📊 Interested in **Finance, Crypto, and Investing**
-- 🌱 Always learning: **Deep Learning · DevOps · Cloud · Rust · Go**
-- 💬 Ask me about **Spring Boot, React, Android (Jetpack Compose), ML, or Blockchain**
-- 📫 Reach me at: **ayushchauhan.9525@gmail.com**
+</td>
+<td valign="top" width="50%">
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-7C3AED?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### ⛓️ Blockchain
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3j-F16822?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎓 [**lms-backend**](https://github.com/ayushchauhan925/lms-backend) | A full-featured Learning Management System backend — educators create & deliver courses, students enroll and track progress | `Spring Boot` `Java` `REST API` `MySQL` |
-| 🖥️ [**lms-frontend**](https://github.com/ayushchauhan925/lms-frontend) | Modern LMS frontend with course browsing, student dashboard & instructor tools | `React` `Vite` `JavaScript` `Tailwind` |
-| 🔐 [**jwt-auth-spring**](https://github.com/ayushchauhan925/jwt-auth-spring) | Enterprise-grade JWT authentication system — stateless auth, password hashing, role-based authorization & REST API protection | `Spring Boot` `Spring Security` `JWT` `Java` |
-| 👨‍🎓 [**StudentManagementSystem**](https://github.com/ayushchauhan925/StudentManagementSystem) | Full-stack student management with Spring Boot backend & React frontend — CRUD for Users, Students, Courses & Enrollments | `Spring Boot` `React` `Java` `REST API` |
-| 📚 [**LibraryManagementSystem**](https://github.com/ayushchauhan925/LibraryManagementSystem) | Comprehensive library system — session-based auth, CRUD for books, borrow request & return tracking, penalty management | `Spring Boot` `Java` `MySQL` |
-| 🧮 [**ArithmeticExpressionEvaluator**](https://github.com/ayushchauhan925/ArithmeticExpressionEvaluator) | High-precision mathematical expression evaluator built in Java | `Java` `Data Structures` `Algorithms` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=2563eb&text_color=c9d1d9&ring_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchauhan925&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" />
+## 🎯 At a Glance
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=10" />
-
-</div>
+🔥 &nbsp;**Building** full-stack products from zero to production
+<br/><br/>
+🤖 &nbsp;**Exploring** RAG, LangChain, CrewAI, AutoGen & AI Agents
+<br/><br/>
+⛓️ &nbsp;**Shipping** on-chain apps with Web3j & Ethereum
+<br/><br/>
+📱 &nbsp;**Crafting** native Android experiences in Jetpack Compose
+<br/><br/>
+☁️ &nbsp;**Architecting** cloud-native & DevOps pipelines
+<br/><br/>
+📊 &nbsp;**Passionate** about Finance, Crypto & Investing
+<br/><br/>
+💡 &nbsp;**Philosophy:** Ship fast. Learn faster. Break things. Fix them better.
+<br/><br/>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📬 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-ayushchauhan.9525%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ayushchauhan.9525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushchauhan925-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/ayushchauhan925)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushchauhan925-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ayushchauhan925)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DEV QUOTE BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+> ### *"First, solve the problem. Then, write the code."*
+> **— John Johnson**
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+
+### 〈/〉 Languages
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## 🐍 Contribution Snake
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0f9d58?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🤖 AI · ML · Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+
+---
+
+### 📱 Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt_DI-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-7C3AED?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+### ⛓️ Blockchain & Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3j](https://img.shields.io/badge/Web3j-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+---
+
+### ☁️ Cloud · DevOps · Infra
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+<p><i>Things I've built that I'm proud of</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 [Learnify LMS — Backend](https://github.com/ayushchauhan925/lms-backend)
+> A production-grade **Learning Management System** backend that enables educators to create courses, manage content, and lets students enroll, access lectures, and track progress.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ [Learnify LMS — Frontend](https://github.com/ayushchauhan925/lms-frontend)
+> Modern **React + Vite** LMS frontend with course browsing, interactive student dashboard, and full instructor management tools. Built for scale and UX.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 [JWT Auth — Spring Security](https://github.com/ayushchauhan925/jwt-auth-spring)
+> **Enterprise-grade** JWT authentication system built with Spring Boot & Spring Security — stateless auth, BCrypt password hashing, role-based authorization, and full REST API protection.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👨‍🎓 [Student Management System](https://github.com/ayushchauhan925/StudentManagementSystem)
+> Full-stack **Spring Boot + React** system with complete CRUD for Users, Students, Courses & Enrollments. Clean REST APIs, modular architecture, exception handling baked in.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 [Library Management System](https://github.com/ayushchauhan925/LibraryManagementSystem)
+> Comprehensive **Spring Boot** library system — session-based admin & student auth, full book CRUD, borrow request & return tracking, penalty management.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧮 [Arithmetic Expression Evaluator](https://github.com/ayushchauhan925/ArithmeticExpressionEvaluator)
+> High-precision **Java-based** mathematical expression evaluator — built from scratch using custom parsing, operator precedence, and stack-based evaluation logic.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures-7C3AED?style=flat-square&logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=java&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&ring_color=7c3aed" />
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchauhan925&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=10&card_width=400" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVITY GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchauhan925&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area_color=6d28d9&area=true&hide_border=true&custom_title=Ayush's%20Contribution%20Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Watch the Snake Eat My Commits</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ayushchauhan925/ayushchauhan925/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Activity Graph
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushchauhan925&bg_color=0d1117&color=7c3aed&line=2563eb&point=7c3aed&area=true&hide_border=true" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              CURRENTLY LEARNING SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
-
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
-## 🤝 Connect With Me
+<h2 align="center">🌱 Currently Levelling Up</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushchauhan925-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushchauhan925)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushchauhan925-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchauhan925)
-[![Email](https://img.shields.io/badge/Email-ayushchauhan.9525%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushchauhan.9525@gmail.com)
+| 🧠 AI & ML | ☁️ Cloud & DevOps | ⛓️ Web3 | 🦀 Systems |
+|:-----------:|:-----------------:|:-------:|:----------:|
+| RAG Pipelines | AWS / GCP | Solidity | Rust |
+| LangChain | Docker & K8s | Smart Contracts | Go |
+| PyTorch DL | CI/CD Pipelines | Web3.js | Low-level Networking |
+| AI Agents | Terraform | DeFi Protocols | OS Internals |
+| CrewAI / AutoGen | Microservices | IPFS | Compiler Design |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  FINAL CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤝 Let's Build Something Together</h2>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:6e40c9&height=100&section=footer" />
+
+<a href="https://linkedin.com/in/ayushchauhan925">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushchauhan925">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ayushchauhan.9525@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+open+to+collaborating+on+ambitious+projects.;Let's+turn+ideas+into+systems+that+scale.;Drop+a+star+⭐+if+my+work+helped+you!" alt="Footer Typing" />
+
 </div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn"/>
