@@ -403,14 +403,14 @@ and push to main at 3 AM
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&ring_color=7c3aed&cache_seconds=1800" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan925&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0D1117&ring_color=7c3aed&include_all_commits=true" />
 
 <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=ayushchauhan925&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=7c3aed&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 <div align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=10&card_width=400&cache_seconds=1800" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchauhan925&layout=compact&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0D1117&langs_count=10&card_width=400" />
 </div>
 
 <br/>
@@ -431,10 +431,24 @@ and push to main at 3 AM
 <!--                       TROPHIES                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SKILL LEVELS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏅 Skills & Proficiency</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan925&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
+
+| Skill | Level | Bar |
+|:------|:-----:|:----|
+| **Java & Spring Boot** | ████████████░░░ 80% | ![80%](https://img.shields.io/badge/Expert-80%25-7c3aed?style=flat-square&labelColor=0d1117) |
+| **React & Frontend** | ███████████░░░░ 75% | ![75%](https://img.shields.io/badge/Advanced-75%25-6d28d9?style=flat-square&labelColor=0d1117) |
+| **Android / Kotlin** | ██████████░░░░░ 70% | ![70%](https://img.shields.io/badge/Advanced-70%25-5b21b6?style=flat-square&labelColor=0d1117) |
+| **Python & ML** | █████████░░░░░░ 65% | ![65%](https://img.shields.io/badge/Intermediate-65%25-4c1d95?style=flat-square&labelColor=0d1117) |
+| **Blockchain / Web3** | ███████░░░░░░░░ 50% | ![50%](https://img.shields.io/badge/Growing-50%25-7c3aed?style=flat-square&labelColor=0d1117) |
+| **Cloud / DevOps** | ██████░░░░░░░░░ 45% | ![45%](https://img.shields.io/badge/Growing-45%25-6d28d9?style=flat-square&labelColor=0d1117) |
+| **Deep Learning** | █████░░░░░░░░░░ 40% | ![40%](https://img.shields.io/badge/Learning-40%25-5b21b6?style=flat-square&labelColor=0d1117) |
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -445,28 +459,57 @@ and push to main at 3 AM
 <!--               CODING JOURNEY & ROADMAP                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🗺️ My Dev Roadmap</h2>
+<h2 align="center">🗺️ Engineering Roadmap</h2>
 
 <div align="center">
 
-```
-                          AYUSH'S ENGINEERING JOURNEY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<table>
+<thead>
+<tr>
+<th align="center">✅ &nbsp; MASTERED</th>
+<th align="center">🔥 &nbsp; BUILDING NOW</th>
+<th align="center">🎯 &nbsp; NEXT TARGET</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
 
-  ✅  MASTERED          🔥  BUILDING NOW         🎯  NEXT TARGET
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+![Java](https://img.shields.io/badge/Java_&_Spring_Boot-✅_Done-22c55e?style=flat-square&labelColor=14532d)
+![React](https://img.shields.io/badge/React_+_Vite-✅_Done-22c55e?style=flat-square&labelColor=14532d)
+![REST](https://img.shields.io/badge/REST_APIs_+_JWT-✅_Done-22c55e?style=flat-square&labelColor=14532d)
+![Android](https://img.shields.io/badge/Android_Jetpack_Compose-✅_Done-22c55e?style=flat-square&labelColor=14532d)
+![DB](https://img.shields.io/badge/MySQL_+_MongoDB-✅_Done-22c55e?style=flat-square&labelColor=14532d)
+![Git](https://img.shields.io/badge/Git_+_GitHub_Actions-✅_Done-22c55e?style=flat-square&labelColor=14532d)
 
-  ✅  Java & Spring Boot      🔥  RAG + LangChain       🎯  AWS Solutions Arch
-  ✅  React + Vite            🔥  PyTorch / DL          🎯  Kubernetes (CKA)
-  ✅  REST APIs + JWT         🔥  AI Agent Systems      🎯  Solidity + DeFi
-  ✅  Android Jetpack         🔥  Docker + K8s          🎯  Go Microservices
-  ✅  MySQL + MongoDB         🔥  Blockchain / Web3j    🎯  Rust Systems Prog
-  ✅  Git + GitHub Actions    🔥  LLM Fine-tuning       🎯  MLOps Pipelines
+</td>
+<td align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          "Every expert was once a beginner who refused to quit."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+![RAG](https://img.shields.io/badge/RAG_+_LangChain-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+![PyTorch](https://img.shields.io/badge/PyTorch_/_Deep_Learning-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+![Agents](https://img.shields.io/badge/AI_Agent_Systems-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+![Docker](https://img.shields.io/badge/Docker_+_Kubernetes-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+![Web3](https://img.shields.io/badge/Blockchain_/_Web3j-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+![LLM](https://img.shields.io/badge/LLM_Fine--tuning-🔥_Active-f97316?style=flat-square&labelColor=7c2d12)
+
+</td>
+<td align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Solutions_Arch-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+![CKA](https://img.shields.io/badge/Kubernetes_(CKA)-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+![Solidity](https://img.shields.io/badge/Solidity_+_DeFi-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+![Go](https://img.shields.io/badge/Go_Microservices-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+![Rust](https://img.shields.io/badge/Rust_Systems_Prog-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+![MLOps](https://img.shields.io/badge/MLOps_Pipelines-🎯_Soon-a78bfa?style=flat-square&labelColor=3b0764)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
 
 </div>
 
