@@ -44,76 +44,129 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<!-- ABOUT ME — FULL WIDTH CARD LAYOUT -->
 
-## 🧑‍💻 Who Am I?
+<div align="center">
 
-```typescript
-const ayush: Developer = {
-  name     : "Ayush Chauhan",
-  location : "Mumbai, India 🇮🇳",
-  education: "B.E. Computer Engineering",
-  college  : "University of Mumbai",
-  year     : "SE • Semester IV",
+### 👋 Hey, I'm Ayush Chauhan
 
-  currentlyBuilding: [
-    "🎓 Learnify — Full-stack EdTech LMS",
-    "⛓️  Blockchain Ledger API (Web3j)",
-    "🤖 AI Agents with LangChain & RAG",
-  ],
-
-  currentlyLearning: [
-    "RAG Pipelines • LangChain • PyTorch",
-    "AWS / GCP • Docker • Kubernetes",
-    "Rust • Go • Deep Learning",
-    "Blockchain / Solidity / Web3",
-  ],
-
-  superPowers: [
-    "Java & Spring Boot Microservices",
-    "React + Android (Jetpack Compose)",
-    "ML Pipelines & AI Agent Systems",
-  ],
-
-  funFact: "I debug in the dark and ship at 3 AM 🌙",
-};
-```
-
-</td>
-<td valign="top" width="50%">
-
-## 🎯 At a Glance
+**Computer Engineering Student @ University of Mumbai** &nbsp;•&nbsp; Mumbai, India 🇮🇳
 
 <br/>
 
-🔥 &nbsp;**Building** full-stack products from zero to production
-<br/><br/>
-🤖 &nbsp;**Exploring** RAG, LangChain, CrewAI, AutoGen & AI Agents
-<br/><br/>
-⛓️ &nbsp;**Shipping** on-chain apps with Web3j & Ethereum
-<br/><br/>
-📱 &nbsp;**Crafting** native Android experiences in Jetpack Compose
-<br/><br/>
-☁️ &nbsp;**Architecting** cloud-native & DevOps pipelines
-<br/><br/>
-📊 &nbsp;**Passionate** about Finance, Crypto & Investing
-<br/><br/>
-💡 &nbsp;**Philosophy:** Ship fast. Learn faster. Break things. Fix them better.
-<br/><br/>
+*I build things that matter — full-stack systems, intelligent ML pipelines, and on-chain applications.*
+*Second year student. First year of many building things the world will actually use.*
 
----
+</div>
 
-### 📬 Let's Connect
+<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-ayushchauhan.9525%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ayushchauhan.9525@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushchauhan925-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/ayushchauhan925)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushchauhan925-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ayushchauhan925)
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🔭 Building
+
+&nbsp;
+
+🎓 **Learnify LMS**
+Reimagining how students
+learn and grow online
+
+&nbsp;
+
+⛓️ **Blockchain Ledger API**
+Trustless record-keeping
+on Ethereum with Web3j
+
+&nbsp;
+
+🤖 **AI Agent Systems**
+Multi-agent RAG pipelines
+with LangChain & CrewAI
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 📚 Learning
+
+&nbsp;
+
+🧠 RAG · LangChain · PyTorch
+Deep Learning architectures
+
+&nbsp;
+
+☁️ AWS · GCP · Docker · K8s
+Cloud-native & DevOps
+
+&nbsp;
+
+🦀 Rust · Go · Solidity
+Systems & Blockchain
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ⚡ Strongest At
+
+&nbsp;
+
+☕ **Java & Spring Boot**
+Microservices, JWT, REST APIs
+
+&nbsp;
+
+⚛️ **React & Android**
+Jetpack Compose, Hilt, Retrofit
+
+&nbsp;
+
+🤖 **ML & AI Agents**
+Pipelines, LLMs, Agent Frameworks
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🎯 Beyond Code
+
+&nbsp;
+
+🧬 **AI / ML / DL**
+Obsessed with building models
+that actually think
+
+&nbsp;
+
+🔬 **Research Mindset**
+Papers → Code → Production
+That's the pipeline
+
+&nbsp;
+
+🌙 **Fun Fact**
+I debug in the dark
+and push to main at 3 AM
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+> 💡 &nbsp; **Philosophy** &nbsp; — &nbsp; *Code with intent. Learn with obsession. Build things that outlive the hype.*
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-ayushchauhan.9525%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ayushchauhan.9525@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushchauhan925-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/ayushchauhan925)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ayushchauhan925-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ayushchauhan925)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
